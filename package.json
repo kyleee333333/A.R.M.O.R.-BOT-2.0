@@ -1,0 +1,16 @@
+{
+  "name": "armor-bot-flood-monitor",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A.R.M.O.R. BOT flood monitoring website and installable PWA",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
